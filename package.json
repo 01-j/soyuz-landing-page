@@ -1,0 +1,11 @@
+{
+  "name": "soyuzu-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Soyuzu Tech landing page — edit teks via content.md",
+  "scripts": {
+    "dev": "node serve.cjs",
+    "apply": "node apply-content.cjs",
+    "watch": "node watch-content.cjs"
+  }
+}
